@@ -32,7 +32,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		challengeShow: false,
 		rated: false,
 		ruleset: ['Obtainable', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Illusion Level Mod'],
-	}
+	},
 	{
 		name: "[Gen 9] OU",
 		mod: 'gen9',
